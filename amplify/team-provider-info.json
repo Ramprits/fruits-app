@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-oconnellapp-dev-191046-authRole",
+      "UnauthRoleArn": "arn:aws:iam::712801573768:role/amplify-oconnellapp-dev-191046-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::712801573768:role/amplify-oconnellapp-dev-191046-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-oconnellapp-dev-191046-deployment",
+      "UnauthRoleName": "amplify-oconnellapp-dev-191046-unauthRole",
+      "StackName": "amplify-oconnellapp-dev-191046",
+      "StackId": "arn:aws:cloudformation:ap-south-1:712801573768:stack/amplify-oconnellapp-dev-191046/5e178470-9eb9-11eb-9571-06d1c5fd72fe",
+      "AmplifyAppId": "dln7rpij859w1"
+    },
+    "categories": {
+      "auth": {
+        "oconnellappc6082436": {}
+      }
+    }
+  }
+}
